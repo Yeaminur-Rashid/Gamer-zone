@@ -1,0 +1,169 @@
+
+/* responsive  */
+@media screen and (max-width: 576px){
+  
+
+
+    .navbar{
+        flex-direction: column;
+    }
+    .gamer{
+        margin-left: 80px;
+    }
+    .banner{
+        flex-direction: column;
+    }
+    .banner-img img{
+        width: 320px;
+        height: 320px;
+        margin-top: 50px;
+    }
+    .we-are-gamer{
+        flex-direction: column;
+    }
+    .we-text{
+        text-align: center;
+    }
+    .img-1 img{
+    width: 350px;
+    height: 300px;
+    }
+    .section3-header{
+        flex-direction: column;
+    
+    }
+    
+    
+    
+    .section3-cards img{
+    
+    width: 200px;
+    height: 200px;
+    
+    }
+    .overlay{
+        width: 200px;
+        height: 200px;
+        margin-left: 40px;
+    }
+    .section3-cards{
+        flex-direction: column;
+        margin-left:50px;
+    }
+    
+    .play-instantly{
+        flex-direction: column;
+    }
+    .image-play img{
+       
+            width: 350px;
+        height: 350px;
+    }
+    .girl-tom img{
+        width: 180px;
+        height: 200px;
+        margin-top: 100px;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    .text-play{
+        text-align: center;
+    }
+    .btn-hover-sec{
+        width: 180px;
+        height: 90px;
+    }
+    .categories-btn-sec{
+       flex-direction: column;
+       align-items: center;
+        }
+        .container {
+            max-width: 540px;
+          }
+          .footer-flex{
+            font-size: 12px;
+          }
+       
+    }
+    @media screen and (max-width: 767px) {
+        
+    .navbar{
+        flex-direction: column;
+    }
+    .gamer{
+        margin-left: 80px;
+    }
+    .banner{
+        flex-direction: column;
+    }
+    .banner-img img{
+        width: 320px;
+        height: 320px;
+        margin-top: 50px;
+    }
+    .we-are-gamer{
+        flex-direction: column;
+    }
+    .we-text{
+        text-align: center;
+    }
+    .img-1 img{
+    width: 350px;
+    height: 300px;
+    }
+    .section3-header{
+        flex-direction: column;
+    
+    }
+    
+    
+    
+    .section3-cards img{
+    
+    width: 200px;
+    height: 200px;
+    
+    }
+    .overlay{
+        width: 200px;
+        height: 200px;
+        margin-left: 40px;
+    }
+    .section3-cards{
+        flex-direction: column;
+        margin-left:50px;
+    }
+    
+    .play-instantly{
+        flex-direction: column;
+    }
+    .image-play img{
+       
+            width: 350px;
+        height: 350px;
+    }
+    .girl-tom img{
+        width: 180px;
+        height: 200px;
+        margin-top: 100px;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    .text-play{
+        text-align: center;
+    }
+    .btn-hover-sec{
+        width: 180px;
+        height: 90px;
+    }
+    .categories-btn-sec{
+       flex-direction: column;
+       align-items: center;
+        }
+        .container {
+            max-width: 540px;
+          }
+          .footer-flex{
+            font-size: 12px;
+          }
+    }
